@@ -1,2 +1,2 @@
 # prueba
-prueba bootcamp 2022_10
+prueba Bootcamp 2022 - 10
